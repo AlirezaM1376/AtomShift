@@ -60,5 +60,5 @@
 ## Special Thanks
 - Classic Atomix game for the inspiration.
 - Game logic, atoms gfx and level format based on [KAtomic](https://apps.kde.org/katomic/) by KDE Project (GPL)
-- AI for creating the soundtracks, some parts of the code
+- AI for creating the soundtracks, help with some parts of the code
 - Beta Testers: [Nuru Dashdamirli](https://github.com/NuruDashdamir), [Arman Jussupgaliyev](https://github.com/shinovon) 

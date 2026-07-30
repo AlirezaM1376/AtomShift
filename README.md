@@ -1,6 +1,6 @@
 <div align="center">
   <h1>AtomShift</h1>
-  <p><img width="250" src="https://github.com/AlirezaM1376/AtomShift/raw/refs/heads/main/AtomShift_icon.jpg" /></p>
+  <p><img width="250" src="https://github.com/AlirezaM1376/AtomShift/raw/refs/heads/main/AtomShift_icon.png" /></p>
   <p>A cross-platform fun puzzle game about atoms and molecules — built with Qt.
   <br>Slide atoms across the board to assemble the target molecule. Atoms move until they hit a wall or another atom — think before you shift!</p>
 </div>

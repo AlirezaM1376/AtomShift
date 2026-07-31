@@ -50,9 +50,9 @@ mole_0=12
 
 [Level3]
 Name=Carbon Dioxide
-atom_1=2-D
-atom_2=3-BD
-atom_3=2-B
+atom_1=3-D
+atom_2=2-BD
+atom_3=3-B
 feld_00=...............
 feld_01=...............
 feld_02=...............
@@ -72,8 +72,8 @@ mole_0=321
 
 [Level4]
 Name=Nitrogen
-atom_1=4-g
-atom_2=4-c
+atom_1=4-H
+atom_2=4-F
 feld_00=...............
 feld_01=...............
 feld_02=...............
@@ -467,11 +467,11 @@ mole_1=234
 mole_2=5.5
 
 [Level20]
-Name=Nitrogen Triiodide
-atom_1=1-e
-atom_2=2-aec
-atom_3=1-a
-atom_4=3-g
+Name=Nitrogen Tribromide
+atom_1=8-e
+atom_2=4-aec
+atom_3=8-a
+atom_4=8-g
 feld_00=...............
 feld_01=...............
 feld_02=...............
@@ -492,10 +492,10 @@ mole_1=24
 mole_2=3
 
 [Level21]
-Name=Nitrous Oxide
-atom_1=1-d
-atom_2=2-hc
-atom_3=1-g
+Name=Dichlorine Monoxide
+atom_1=7-d
+atom_2=3-hc
+atom_3=7-g
 feld_00=...............
 feld_01=...............
 feld_02=##############.

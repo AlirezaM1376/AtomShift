@@ -34,7 +34,10 @@
 | Nokia 603 | Symbian Belle FP2 | ✅ Works |
 | Nokia 5800 | Symbian S60v5 | ✅ Works |
 | Nokia C5-03 | Symbian S60v5 | ✅ Works |
+| Nokia C6 | Symbian S60v5 | ✅ Works |
+| Nokia N97 | Symbian S60v5 | ✅ Works |
 | Sony Ericsson Satio | Symbian S60v5 | ✅ Works (No sound) |
+| Emulator | EKA2L1 | ✅ Works |
 
 ---
 
